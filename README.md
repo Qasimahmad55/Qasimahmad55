@@ -42,7 +42,12 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qasimahmad55&
 </div>
 
 ### ✍️ **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>  
+<div align="center">
+<img
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!" alt="Footer Typing"/>
+</div>
 
