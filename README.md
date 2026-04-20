@@ -40,8 +40,9 @@ src="https://streak-stats.demolab.com/?user=Qasimahmad55&theme=dark&hide_border=
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=Qasimahmad55&theme=dark&hide_border=true&center=true&vCenter=true&include_all_commits=true&count_private=false&layout=compact"
 >
 </div>
+<br>
 
-### ✍️ **Random Dev Quote**
+# ✍️ **Random Dev Quote**
 
 <div align="center">
 <img
